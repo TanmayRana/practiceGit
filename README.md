@@ -1,3 +1,5 @@
 # practiceGit
 
-My name is Tanamy
+This is my first git Repository.
+<br>
+Author - Tanmay Rana
